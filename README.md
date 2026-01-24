@@ -151,8 +151,8 @@ This project follows modern **MLOps principles**:
 
 ## 👤 Leadership
 
-**Topic Lead:**
-**Kartik Chilkoti**
+Topic Lead:
+
 
 > *“Leadership is about building systems that help others grow.”*
 
