@@ -1,0 +1,3 @@
+Imagine teaching a child. Supervised learning is like using flashcards with answers: you show an apple and say "apple." The model learns from labeled data to predict outcomes. 
+ Unsupervised learning is different; it’s like giving a child a pile of toys to sort alone. The model finds hidden patterns in unlabeled data, grouping similar items without explicit guidance.
+While supervised learning predicts specific targets, unsupervised learning discovers underlying structures. Both approaches are essential tools for building robust, intelligent, and adaptable systems.
