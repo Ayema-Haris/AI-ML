@@ -59,18 +59,17 @@ This closed feedback loop allows the agent to improve its performance through **
 These methods learn a **value function** — an estimate of how good it is to be in a certain state or to perform a certain action.
 
 - **Example:** **Q-learning**
-- The agent learns an *action-value function* \( Q(s,a) \) that estimates the expected future reward for taking action \( a \) in state \( s \).
+- The agent learns an *action-value function* that estimates the expected future reward for taking action in state.
 - The optimal policy is derived by choosing the action with the highest Q-value.
 
 ### 2. Policy-Based Methods
-Instead of learning value functions, these directly learn the **policy function** \( \pi(a|s) \).
+Instead of learning value functions, these directly learn the **policy function**.
 - Suitable for continuous or high-dimensional action spaces.
-- Often optimized using **gradient-based methods** like Policy Gradient or REINFORCE.
+- Often optimized using **gradient-based methods** like Policy Gradient or REINFORCE. (mentioned in further documents)
 
 ### 3. Model-Based Methods
 These algorithms build an internal **model of the environment’s dynamics** — how actions change states and produce rewards.
 - They simulate experiences internally to plan ahead.
-- Common example: **Model Predictive Control (MPC)** or **Dyna-Q**.
 
 ---
 
@@ -82,8 +81,7 @@ An RL agent must balance:
 
 This trade-off is crucial — too much exploration wastes time; too much exploitation risks missing better solutions.
 
-**Epsilon-Greedy Strategy:**  
-A common approach where the agent chooses a random action with probability \( \varepsilon \) (exploration) and the best-known action with probability \( 1 - \varepsilon \) (exploitation).
+**Epsilon-Greedy Strategy** is a reinforcement learning method where the agent **chooses a random action with probability ε (exploration)** and **the best-known action with probability 1−ε (exploitation)**, balancing learning and performance.
 
 ---
 
@@ -117,3 +115,4 @@ Reinforcement Learning enables agents to *learn from experience* by interacting 
 By mastering these fundamentals — agent, environment, state, action, reward, and policy — you can better understand and design intelligent systems that learn through interaction and improve over time.
 
 ---
+
