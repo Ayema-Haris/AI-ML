@@ -43,9 +43,9 @@ Example: “If the robot is near an obstacle, move away with high probability.�
 
 ## The RL Process: Agent–Environment Interaction Loop
 
-1. The agent **observes** the current state \( s_t \).
-2. It **selects an action** \( a_t \) according to its policy \( \pi(s_t) \).
-3. The environment **transitions** to a new state \( s_{t+1} \) and provides a **reward** \( r_t \).
+1. The agent **observes** the current state.
+2. It **selects an action**  according to its policy.
+3. The environment **transitions** to a new state and provides a **reward** .
 4. The agent **updates** its policy or value estimates based on this feedback.
 5. This process repeats continuously — the agent learns by **trial and error** to maximize the **expected cumulative reward** over time.
 
@@ -103,16 +103,16 @@ The robot starts with no knowledge of the maze and gradually learns the best pat
 - **Sparse Rewards:** The agent may receive feedback only occasionally, making learning slow and inefficient.
 - **Credit Assignment Problem:** Determining which past actions led to a current reward can be difficult.
 - **Exploration Complexity:** In large or continuous state spaces, exploring all possibilities becomes computationally expensive.
-- **Non-Stationary Environments:** If the environment changes over time, previously learned policies may become obsolete.
 - **Sample Inefficiency:** RL often requires millions of interactions to learn effective policies.
 
 ---
 
 ## Summary
 
-Reinforcement Learning enables agents to *learn from experience* by interacting with their environment. It’s a powerful framework that underpins advances in robotics, autonomous driving, and game-playing AI (e.g., AlphaGo).
+Reinforcement Learning enables agents to *learn from experience* by interacting with their environment. It’s a powerful framework that underpins advances in robotics, autonomous driving, and game-playing AI.
 
 By mastering these fundamentals — agent, environment, state, action, reward, and policy — you can better understand and design intelligent systems that learn through interaction and improve over time.
 
 ---
+
 
