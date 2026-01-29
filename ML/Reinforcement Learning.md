@@ -39,8 +39,6 @@ The **policy** defines the agent’s behavior — how actions are chosen given a
 
 Example: “If the robot is near an obstacle, move away with high probability.”
 
-<img width="468" height="362" alt="image" src="https://github.com/user-attachments/assets/03219621-71a1-4e43-949d-2cf4606bcf5e" />
-
 ---
 
 ## The RL Process: Agent–Environment Interaction Loop
@@ -52,6 +50,8 @@ Example: “If the robot is near an obstacle, move away with high probability.�
 5. This process repeats continuously — the agent learns by **trial and error** to maximize the **expected cumulative reward** over time.
 
 This closed feedback loop allows the agent to improve its performance through **experience**, rather than external supervision.
+
+<img width="468" height="362" alt="image" src="https://github.com/user-attachments/assets/b0a3d430-63e1-46b6-8bd2-f14a34e3869b" />
 
 ---
 
@@ -116,6 +116,7 @@ Reinforcement Learning enables agents to *learn from experience* by interacting 
 By mastering these fundamentals — agent, environment, state, action, reward, and policy — you can better understand and design intelligent systems that learn through interaction and improve over time.
 
 ---
+
 
 
 
