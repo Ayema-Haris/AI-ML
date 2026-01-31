@@ -1,9 +1,9 @@
-# 0 → AI vs ML
+# Topic 0 - AI vs ML
 
 AI and ML are not just some smart computer things.  
-They are part of a bigger pool of concepts called **AI, ML, Deep Learning, NLP, and many others.**  
+They are part of a bigger pool of concepts called **AI, ML, Deep Learning, NLP, and more.**  
 In essence, we can think of it as →
-
+![AI vs ML flowchart](./images/ai-vs-ml-flowchart.png)
 --- 
 
 ## What AI actually is →
@@ -15,7 +15,7 @@ AI has existed before ML.
 Even simple if–else statements come under AI.
 
 For example →  
-A calculator is a form of AI.  
+A calculator is a very basic form of AI.  
 A vacuum cleaner that changes direction when it hits a wall is AI.
 
 It knows which direction is correct.  
@@ -27,7 +27,7 @@ Thus, **not much human intervention was needed**, and it’s doing “AI”.
 
 ## What ML actually is →
 
-So as of now, AI had pre-written instructions and fixed algorithms.  
+Originally, AI had pre-written instructions and fixed algorithms.  
 But the intelligence came just from following that algorithm.
 
 So, ML is a way to build AI **without writing rules manually**.
