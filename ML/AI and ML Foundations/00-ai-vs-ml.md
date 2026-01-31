@@ -66,7 +66,7 @@ Compute became cheap.
 
 Suddenly, ML became the dominant way to do AI.
 
-Language, speech, images — everything started being solved using ML.
+Language, speech, images - everything started being solved using ML.
 
 So in a way, **90% of AI we see today = ML under the hood.**
 
@@ -81,7 +81,7 @@ AI and ML used to be separate. But then:
 - Data exploded  
 - Compute became cheap  
 
-So ML solved the main problems of AI — language, speech, vision.
+So ML solved the main problems of AI - language, speech, vision.
 
 That’s why now AI feels like it suddenly appeared everywhere.
 
