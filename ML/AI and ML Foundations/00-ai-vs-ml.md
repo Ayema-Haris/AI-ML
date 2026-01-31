@@ -103,16 +103,3 @@ Understanding this makes you:
 
 AI literacy is becoming as basic as financial literacy or learning how the internet works.
 
----
-
-## What comes next →
-
-Now that we know AI vs ML, the next explainers will cover:
-
-1. How machines learn (without magic)  
-2. How data becomes knowledge  
-3. What models actually are  
-4. Why training is expensive  
-5. Why AI makes mistakes  
-6. Why bias exists  
-7. What “intelligence” really means in machines  
