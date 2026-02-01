@@ -25,9 +25,6 @@ Very close → RECOGNIZE the PERSON
 Think of Deep Learning as **stacked layers of cardboard filters**, each processing specific features:
 
 Raw Input → Layer 1 → Layer 2 → Layer 3 → ... → Final Output
-(edges) (shapes) (objects) (recognition)
-
-text
 
 ### 1.1 Layer 1: Edge Detectors
 Input: Raw pixels (grayscale values)
@@ -41,11 +38,10 @@ text
 Input: Edges from Layer 1
 Output: Simple shapes (circles, rectangles)
 
-text
 - **What it does:** Combines edges to form recognizable shapes
 - **Example:** Eye shape, nose bridge, mouth curve
 
-### 1.3 Layer 3+: Object Detectors
+### 1.3 Layer 3: Object Detectors
 Input: Shapes from previous layers
 Output: Complete objects/concepts
 
@@ -116,7 +112,7 @@ Deep Learning: Raw data → Model automatically finds best features
            ↑
     [Layer 1: "Edges/Lines"]
            ↑
-  [Raw Pixel Input]
+      [Raw Pixel Input]
   
 ---
 
