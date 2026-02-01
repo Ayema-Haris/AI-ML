@@ -109,13 +109,12 @@ In short:
 
 Gradient Descent is the core algorithm that helps a neural network learn.
 
-- It updates each weight \( w \) by subtracting a small fraction (learning rate \( \eta \)) of the derivative of the loss function with respect to that weight:
+It updates each weight **w** by subtracting a small fraction (learning rate **η**) of the derivative of the loss function:
 
-\[
-w_{\text{new}} = w_{\text{old}} - \eta \frac{\partial L}{\partial w}
-\]
+**w_new = w_old - η * (∂L/∂w)**
 
-Here, \( L \) represents the loss function.
+Here, **L** represents the loss function.
+
 
 If done repeatedly, the loss decreases, and the model becomes more accurate.
 
