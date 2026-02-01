@@ -14,12 +14,10 @@ A neural network is made up of several interconnected units called **neurons**. 
 - It receives inputs (numbers), performs a weighted sum, adds a bias, applies an activation function, and passes the result to the next neuron.  
 
 **Example:**  
-If a neuron receives three inputs \( x_1, x_2, x_3 \) with weights \( w_1, w_2, w_3 \), and a bias \( b \), the output is:  
-\[
-z = (w_1x_1 + w_2x_2 + w_3x_3) + b
-\]
+If a neuron receives three inputs x_1,x_2,x_3 with weights (w_1,w_2,w_3), and a bias(b), the output is:  
+**z = (w_1 * x_1 + w_2 * x_2 + w_3 * x_3) + b**
 
-This output \( z \) then passes through an **activation function** to produce the final value.
+This output z then passes through an **activation function** to produce the final value.
 
 ---
 
@@ -35,7 +33,7 @@ A neural network is composed of several layers of neurons arranged in sequence.
   The number of hidden layers and neurons per layer determines how **deep** or **shallow** a network is.
 
 - **Output Layer**:  
-  This layer produces the final result — for instance, a predicted number (0–9 in digit recognition) or a category (cat, dog, car, etc.).
+  This layer produces the final result — for instance, a predicted number (0–9 in digit recognition) or a category (cat, dog, car and more).
 
 ---
 
