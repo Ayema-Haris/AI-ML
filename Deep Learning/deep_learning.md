@@ -12,6 +12,7 @@ Deep Learning is inspired by how our **visual cortex** works:
 - **Middle layers** recognize shapes and textures  
 - **Higher layers** understand complete objects and concepts
 
+You will be amazed to know how each layer has it's own importance
 **Real-world analogy:** When you see someone approaching from far away...
 
 Far away → Notice basic SHAPES (outline)
