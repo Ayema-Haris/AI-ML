@@ -117,6 +117,8 @@ Deep Learning: Raw data → Model automatically finds best features
   
 ---
 
+<img width="1084" height="813" alt="image" src="https://github.com/user-attachments/assets/c5a456b0-ff24-4ef7-8eba-28137d8179b0" />
+
 ## 🚀 Why Deep Learning is Powerful
 
 | Traditional ML | Deep Learning |
