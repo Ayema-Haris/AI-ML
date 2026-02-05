@@ -63,6 +63,9 @@ Non-linearity is essential, because without it, the entire network would act lik
 
 ---
 
+<img width="1012" height="372" alt="image" src="https://github.com/user-attachments/assets/06f5cdb3-9fac-4504-885e-bb88ce58899c" />
+
+
 ## 2. How Neural Networks Learn
 
 The learning process of a neural network happens through continuous adjustments of weights and biases to minimize prediction errors. This process involves **Forward Propagation**, **Error Calculation**, and **Backpropagation**.
